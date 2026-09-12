@@ -1,1 +1,35 @@
-# .github
+# 🚀 Khuê Nguyễn Creator - Mã Nguồn Tự Học Nhúng & IoT
+
+Chào mừng bạn đến với kho lưu trữ mã nguồn chính thức của blog [khuenguyencreator.com](https://khuenguyencreator.com). Đây là nơi tổng hợp toàn bộ code ví dụ, dự án mẫu và tài liệu thực hành từ các bài viết trên blog nhằm giúp các bạn tiếp cận lập trình nhúng một cách dễ dàng nhất.
+
+---
+
+## 📌 Danh Mục Mã Nguồn Theo Hệ Thống
+
+Để tiện cho việc tìm kiếm, bạn có thể truy cập nhanh vào mã nguồn của từng dòng chip và hệ điều hành dưới đây:
+
+### 🔹 Vi Điều Khiển & Vi Xử Lý (MCU)
+* 🛠️ **STM32 (HAL & RTOS):**
+  * [STM32 HAL, CubeMX & KeilC](https://github.com) — Bộ code mẫu cơ bản cho người mới bắt đầu.
+  * [STM32 Device Library](https://github.com) — Thư viện giao tiếp linh kiện, cảm biến.
+  * [STM32 Device Examples](https://github.com) — Các bài tập thực hành thiết bị thực tế.
+  * [STM32 RTOS Examples](https://github.com) — Code mẫu ứng dụng hệ điều hành thời gian thực.
+  * [STM32F407 Course Examples](https://github.com) — Mã nguồn đi kèm khóa học STM32F4.
+* 📶 **ESP32 & IoT:**
+  * [ESP32 Arduino Full Course](https://github.com) — Toàn bộ bài tập từ cơ bản đến nâng cao với ESP32.
+* 💾 **8051 Legacy:**
+  * [8051 Nuvoton N76E885 Example](https://github.com) — Code ví dụ cho dòng chip Nuvoton 8051.
+
+### 🔸 Hệ Điều Hành Nhúng (Embedded OS)
+* 🐧 **Linux Embedded:** *(Sắp cập nhật / Thêm link repo Linux của bạn vào đây)*
+* 🤖 **Android Systems:** *(Sắp cập nhật / Thêm link repo Android của bạn vào đây)*
+
+---
+
+## 🌐 Kết Nối Với Mình
+Nếu bạn thấy các mã nguồn này hữu ích, hãy ủng hộ mình bằng cách:
+* 📖 Đọc các bài viết hướng dẫn chi tiết tại: [khuenguyencreator.com](https://khuenguyencreator.com)
+* ⭐ Bấm **Star** ủng hộ các repo bạn đang sử dụng để mình có thêm động lực chia sẻ!
+* 💬 Nếu có bất kỳ thắc mắc hay lỗi code nào, bạn có thể tạo **Issue** trực tiếp trong repo đó hoặc để lại bình luận trên blog nhé.
+
+Chúc các bạn học tập tốt và có nhiều dự án thú vị! 🚀
