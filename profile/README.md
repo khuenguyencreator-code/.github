@@ -21,8 +21,8 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn chính thức của b
   * [8051 Nuvoton N76E885 Example](https://github.com) — Code ví dụ cho dòng chip Nuvoton 8051.
 
 ### 🔸 Hệ Điều Hành Nhúng (Embedded OS)
-* 🐧 **Linux Embedded:** *(Sắp cập nhật / Thêm link repo Linux của bạn vào đây)*
-* 🤖 **Android Systems:** *(Sắp cập nhật / Thêm link repo Android của bạn vào đây)*
+* 🐧 **Linux Embedded:** *(Sắp cập nhật)*
+* 🤖 **Android Systems:** *(Sắp cập nhật)*
 
 ---
 
